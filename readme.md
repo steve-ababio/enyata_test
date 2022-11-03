@@ -7,7 +7,7 @@ contains the solution for the take-home assignment
 Clone the project
 
 ```bash
-  git clone https://github.com/henrhie/backend-solution.git
+  git clone https://github.com/steve-ababio/enyata_test.git
 ```
 Go to the project directory
 
